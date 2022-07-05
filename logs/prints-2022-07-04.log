@@ -1,0 +1,11 @@
+19:47:55.636 [main] ERROR beta.Demo1 - error
+19:47:55.638 [main] FATAL beta.Demo1 - fatal
+19:48:29.402 [main] DEBUG beta.Demo1 - debug
+19:48:29.404 [main] ERROR beta.Demo1 - error
+19:48:29.404 [main] INFO  beta.Demo1 - info
+19:48:29.404 [main] FATAL beta.Demo1 - fatal
+19:49:22.136 [main] DEBUG beta.Demo1 - debug
+19:49:22.138 [main] ERROR beta.Demo1 - error
+19:49:22.138 [main] INFO  beta.Demo1 - info
+19:49:22.138 [main] FATAL beta.Demo1 - fatal
+19:49:54.321 [main] DEBUG beta.Demo1 - debug

@@ -1,0 +1,7 @@
+19:49:54.323 [main] ERROR beta.Demo1 - error
+19:49:54.328 [main] INFO  beta.Demo1 - info
+19:49:54.328 [main] FATAL beta.Demo1 - fatal
+19:50:14.680 [main] DEBUG Framework.Log4JPractice.Demo - debug
+19:50:14.682 [main] ERROR Framework.Log4JPractice.Demo - error
+19:50:14.682 [main] INFO  Framework.Log4JPractice.Demo - info
+19:50:14.682 [main] FATAL Framework.Log4JPractice.Demo - fatal
